@@ -13,7 +13,9 @@ namespace ConsoleApp4
             Console.WriteLine(155556);
             Console.WriteLine(123456);
 
+            Console.WriteLine(123456);
 
+            Console.WriteLine(123456);
 
             Console.WriteLine(123456);
             Console.WriteLine(123456);
